@@ -11,7 +11,7 @@ public class Main extends Application {
 	@Override
 	public void start(Stage primaryStage) {
 		try {
-						
+			// HALLO 			
 			Pane root = FXMLLoader.load(getClass().getResource("/view/mockup_pane.fxml"));
 			
 			Scene scene = new Scene(root);
